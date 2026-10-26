@@ -60,8 +60,9 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "518f5105-0ee9-4363-9ea9-980632034c3f"
+        "projectId": "6a3c976c-4b75-46eb-a8f5-92e8df82c15b"
       }
-    }
+    },
+    "owner": "cloverapp"
   }
 }
